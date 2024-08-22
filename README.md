@@ -15,3 +15,12 @@ SSD1306 OLED Display -- I am using a .91" 128x32 display -- other displays can b
 Requires the use of the following Libraries available through the Arduino IDE:
 
 Wire, AdafruitGFX, Adafruit SSD1306
+
+
+To add: 
+
+Pictures of circuit connection
+
+3D Print files for case for display + protoboard/ESP
+
+Update code for E-Ink display once they arrive
